@@ -1,3 +1,3 @@
 # Coding with Beng - Intro to Javascript
 
-Tutorial video: 
+Tutorial video: https://www.youtube.com/watch?v=XYPLCkUG5ic&ab_channel=CodingwithBeng
